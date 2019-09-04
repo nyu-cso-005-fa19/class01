@@ -33,7 +33,7 @@ directory, which you can run with
 
 In order to use the CMake tool to automate the build process,
 follow
-(this tutorial)[https://tuannguyen68.gitbooks.io/learning-cmake-a-beginner-s-guide/content/chap1/chap1.html] to
+[this tutorial](https://tuannguyen68.gitbooks.io/learning-cmake-a-beginner-s-guide/content/chap1/chap1.html) to
 install CMake and then execute the following command once:
 
 ```bash
